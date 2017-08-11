@@ -1,7 +1,10 @@
-# ignore project specific folder
+# specific to current project
 .ipynb_checkpoints
 MNIST_data/
 !MNIST_data/download_data.ipynb
+tensorflow_summaries/
+!tensorflow_summaries/.gitkeep
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
