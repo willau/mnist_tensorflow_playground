@@ -1,2 +1,2 @@
-# mnist_tensorflow_playground
-Playing with MNIST dataset with TensorFlow
+# MNIST digit classification 
+Playing with MNIST handwritten digit dataset with TensorFlow
