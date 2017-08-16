@@ -5,7 +5,9 @@ MNIST_data/
 !MNIST_data/sprite_1024.png
 !MNIST_data/download_data.ipynb
 tensorflow_summaries/
-!tensorflow_summaries/.gitkeep
+!tensorflow_summaries/test/.gitkeep
+!tensorflow_summaries/train/.gitkeep
+!tensorflow_summaries/checkpoints/.gitkeep
 clean.py
 
 
