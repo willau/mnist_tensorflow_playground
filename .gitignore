@@ -4,6 +4,7 @@ MNIST_data/
 !MNIST_data/download_data.ipynb
 tensorflow_summaries/
 !tensorflow_summaries/.gitkeep
+clean.py
 
 
 # Byte-compiled / optimized / DLL files
