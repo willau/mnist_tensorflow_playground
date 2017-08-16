@@ -1,6 +1,8 @@
 # specific to current project
 .ipynb_checkpoints
 MNIST_data/
+!MNIST_data/labels_1024.tsv
+!MNIST_data/sprite_1024.png
 !MNIST_data/download_data.ipynb
 tensorflow_summaries/
 !tensorflow_summaries/.gitkeep
